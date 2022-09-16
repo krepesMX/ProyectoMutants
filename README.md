@@ -21,7 +21,7 @@ localhost:3000
 
 # Rutas existentes:
 
-localhost:3000 GET
+localhost:3000 GET /n
 localhost:3000 POST - en el body tipo "aplication/json" el codigo genetico a evaluar
 
 
